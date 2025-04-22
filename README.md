@@ -1,6 +1,6 @@
 # literacy
 <div align="left">
-  <img src="[](https://cultofthepartyparrot.com/parrots/hd/levitationparrot.gif)" style="vertical-align: top;" alt="Party or die" width=250>
+  <img src="https://cultofthepartyparrot.com/parrots/hd/levitationparrot.gif" style="vertical-align: top;" alt="Party or die" width=250>
 </div>
 
 <div align="center">
