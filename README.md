@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-  <img src="https://cultofthepartyparrot.com/parrots/hd/ultrafastparrot.gif" style="vertical-align: top;" alt="Party or die" width=250>
+  <img src="https://cultofthepartyparrot.com/parrots/hd/ultrafastparrot.gif" style="vertical-align: top;" alt="Party or die" width=700>
 </div>
 
 <div align="right">
