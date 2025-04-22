@@ -1,13 +1,13 @@
 # literacy
-<p align="left">
+<div align="left">
   <img src="https://media.tenor.com/3_mXIoBPNhoAAAAm/party-parrot.webp" alt="Party or die" width=200>
-</p>
+</div>
 
-<p align="center">
+<div align="center">
   <img src="https://media.tenor.com/3_mXIoBPNhoAAAAm/party-parrot.webp" alt="Party or die" width=200>
-</p>
+</div>
 
-<p align="right">
+<div align="right">
   <img src="https://media.tenor.com/3_mXIoBPNhoAAAAm/party-parrot.webp" alt="Party or die" width=200>
-</p>
+</div>
 
