@@ -1,6 +1,4 @@
 # literacy
-
-(=ﾟωﾟ)ﾉ
-![](https://media.tenor.com/3_mXIoBPNhoAAAAm/party-parrot.webp)
-
-![](https://media.tenor.com/nwViW29j5QoAAAAM/fomo-parrot.gif)
+<p align+"center">
+  <img src="https://media.tenor.com/3_mXIoBPNhoAAAAm/party-parrot.webp" alt="Party or die" width=300>
+</p>
